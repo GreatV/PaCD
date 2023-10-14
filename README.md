@@ -1,2 +1,2 @@
 # PaCD
-change detection toolkit based on PaddlePaddle.
+**C**hange **D**etection toolkit based on **Pa**ddlePaddle.
